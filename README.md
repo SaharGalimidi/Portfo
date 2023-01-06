@@ -46,3 +46,18 @@
 <ol start="5">
   <li>Install the required dependencies:</li>
 </ol
+<pre>
+<code>pip install -r requirements.txt</code>
+</pre>
+
+<ol start="6">
+  <li>Run the application:</li>
+</ol>
+
+<pre>
+<code>flask run</code>
+</pre>
+
+<ol start="7">
+  <li>Open a web browser and go to <a href="http://localhost:5000/">http://localhost:5000/</a> to view the application.</li>
+</ol>
