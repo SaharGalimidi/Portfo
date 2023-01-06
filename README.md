@@ -20,7 +20,7 @@
 
 <ul>
   <li>Python 3.6 or higher</li>
-  <li>Flask 1.1.2 or higher</li>
+  <li>Flask 2.0.3 or higher</li>
 </ul>
 
 <h3>Installation</h3>
